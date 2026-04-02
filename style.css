@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #222;
+    color: white;
+    text-align: center;
+}
+
+#game-container {
+    position: relative;
+    display: inline-block;
+}
+
+canvas {
+    border: 2px solid white;
+    background-color: #87CEEB; /* sky color */
+}
+
+#score {
+    margin-top: 10px;
+    font-size: 20px;
+}

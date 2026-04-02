@@ -12,7 +12,7 @@ body {
 
 canvas {
     border: 2px solid white;
-    background-color: #87CEEB; /* sky color */
+    background-color: #87CEEB; /* sky */
 }
 
 #score {
